@@ -4,7 +4,7 @@ This **Data Analysis Agent** effortlessly automates all the tasks such as data c
 
 Here's how it simplifies your workflow: just **select your data file**, **pick an analysis mode**, and **hit start**. Streamline Analyst aims to expedite the data analysis process, making it accessible to all, regardless of their expertise in data analysis. It's built to empower users to process data and achieve high-quality visualizations with unparalleled efficiency🚀, and to execute high-performance modeling with the best strategies🔮.
 
-**Try Our Live Demo Here**: [Data Analysis Assistant](https://streamline.streamlit.app)
+**Try Our Live Demo Here**: ([Data Analysis Assistant](https://abhishekvidhate-analyst-appapp-1c90ki.streamlit.app/))
 
 <small>When utilizing `GPT-4 turbo`, the cost for each comprehensive end-to-end API request is roughly <strong>$0.02</strong>.</small>
 
