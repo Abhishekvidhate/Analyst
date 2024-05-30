@@ -18,7 +18,7 @@ Video Demo
 
 Live app deployed on streamlit cloud
 ----
-**Demo link available at**: [Data Analysis Assistant](https://streamline.streamlit.app)
+**Demo link available at**: [Data Analysis Assistant](https://abhishekvidhate-analyst-appapp-1c90ki.streamlit.app/)
 
 Current Version Features
 ------------------------
