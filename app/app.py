@@ -19,11 +19,11 @@ with st.container():
         st.session_state.welcome_message = welcome_message()
         st.write(stream_data(st.session_state.welcome_message))
         time.sleep(0.5)
-        st.write("[Github > ](https://github.com/Abhishekvidhate)")
+        st.write("[Github > ](https://github.com/Abhishekvidhate/Analyst)")
         st.session_state.initialized = False
     else:
         st.write(st.session_state.welcome_message)
-        st.write("[Github > ](https://github.com/Abhishekvidhate)")
+        st.write("[Github > ](https://github.com/Abhishekvidhate/Analyst)")
 
 # INTRO SECTION
 with st.container():

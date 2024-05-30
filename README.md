@@ -4,13 +4,12 @@ This **Data Analysis Agent** effortlessly automates all the tasks such as data c
 
 Here's how it simplifies your workflow: just **select your data file**, **pick an analysis mode**, and **hit start**. Streamline Analyst aims to expedite the data analysis process, making it accessible to all, regardless of their expertise in data analysis. It's built to empower users to process data and achieve high-quality visualizations with unparalleled efficiency🚀, and to execute high-performance modeling with the best strategies🔮.
 
-**Try Our Live Demo Here**: [Data Analysis Assistant](https://streamline.streamlit.app)
+**Try Our Live Demo Here**: ([Data Analysis Assistant](https://abhishekvidhate-analyst-appapp-1c90ki.streamlit.app/))
 
 <small>When utilizing `GPT-4 turbo`, the cost for each comprehensive end-to-end API request is roughly <strong>$0.02</strong>.</small>
 
 Your data's privacy and security are paramount; rest assured, uploaded data and API Keys are strictly for one-time use and are neither saved nor shared.
-
-![Screenshot 2024-02-12 at 16 01 01](https://github.com/Wilson-ZheLin/Streamline-Analyst/assets/145169519/4167b04c-0853-4703-87a4-6c2994e30f9e)
+![image](https://github.com/Abhishekvidhate/Analyst/assets/120262589/871d4833-bf52-408d-84d6-e41eaf6d4a74)
 
 Looking ahead, we plan to enhance Streamline Analyst with advanced features like ***Natural Language Processing (NLP)***, ***neural networks***, and ***object detection (utilizing YOLO)***, broadening its capabilities to meet more diverse data analysis needs.
 
