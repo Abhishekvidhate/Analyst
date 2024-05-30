@@ -8,7 +8,7 @@ from regression_model import regression_model_pipeline
 from visualization import data_visualization
 from src.util import read_file_from_streamlit
 
-st.set_page_config(page_title="Streamline Analyst", page_icon=":rocket:", layout="wide")
+st.set_page_config(page_title="Data Analysis Assistant", page_icon=":rocket:", layout="wide")
 
 # TITLE SECTION
 with st.container():
@@ -34,7 +34,7 @@ with st.container():
 
     left_column_r1, right_column_r1 = st.columns([6, 4])
     with left_column_r1:
-        st.header("What can Streamline Analyst do?")
+        st.header("What can Data Analysis Assistant do?")
         st.write(introduction_message()[0])
     with right_column_r1:
         if st.session_state.lottie:
